@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋 I'm Awan
 
-<!--
-**Zackunnnn/Zackunnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+Currently building software while documenting the journey publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- 🤖 AI Engineering
+- 📱 Flutter Development
+- 📡 Bluetooth Low Energy (BLE)
+- 🛰️ GPS Tracking
+- ⚡ Automation
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Flymate
+Flutter application for GPS bird tracker with BLE pairing.
+
+### 🧠 NOVA
+AI-powered nutrition and stunting prediction platform.
+
+### 🤖 AI-OS
+Documentation system for AI-assisted software development.
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- Git
+- Docker
+- Firebase
+
+---
+
+## 🌱 Currently Learning
+
+- AI Engineering
+- Reverse Engineering
+- BLE Communication
+- System Design
+
+---
+
+## 📖 Building in Public
+
+I'm documenting my journey on Instagram.
+
+📷 **@buildwithawan**
+
+---
+
+> "Stop consuming. Start creating."
